@@ -31,7 +31,7 @@ Otherwise you can directly call java executable program by providing the full pa
 ## Please read the following document for a walkthrough of the demo:
 https://docs.google.com/presentation/d/1frAAhsxWRVRLxykLCntK-PpnlVhA7yr2xGOe635VrcI/edit?usp=sharing
 
-## Key steps to call a C program from Java by your own
+## Steps to create your own JNI project (calls C function from Java)
 Manually Compile Files *(On 64-Bit Windows OS with Java 14)* :
 * Write the Java (e.g. Jside.java) program and compile it.
 ```bash
